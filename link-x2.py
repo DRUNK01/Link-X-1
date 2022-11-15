@@ -1,9 +1,9 @@
 ##### About Tool ####
-# Link - X    :    Hack With Link
-# Author     :    ToxicNoob
+# Link - X   :    Hack With Link
+# Author     :    DRUNK01
 # Version    :    1.0
 # GitHub     :    https://github.com/Toxic-Noob/
-
+# Credit     :    Toxic-Noob
 # Learn Everything, Teach Everyone
 # Be a Toxic, Become a Legion
 
